@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//declaration section
-// DO NOT MODIFY
+
 class Triangle {
 public:
     Triangle();
@@ -20,10 +19,6 @@ private:
     double side2;
     double side3;
 };
-//END DO NOT MODIFY
-
-//implementation section
-//TODO Implement all 4 Functions of the Triangle Class
 
 Triangle::Triangle()
 {
